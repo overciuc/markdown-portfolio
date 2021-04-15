@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Chicken 🐔
+* Potatoes 🥔
+* Salad 🥗
+  *Tomatoes 🍅
+  *Cucumbers 🥒
+  *Mayo 
